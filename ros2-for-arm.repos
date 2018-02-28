@@ -1,0 +1,5 @@
+repositories:
+  ros2-for-arm/example:
+    type: git
+    url: https://github.com/ros2-for-arm/example
+    version: master

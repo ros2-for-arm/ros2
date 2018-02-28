@@ -1,2 +1,1 @@
-# ros2
-Contains the manifest which inherits ros2/ros2 and arm specific for ros2
+Documentation is in the wiki: https://github.com/ros2-for-arm/ros2/wiki/ROS2-on-arm-architecture
